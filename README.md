@@ -10,7 +10,7 @@ httpp - compiled file<br>
 httpp.go - source file in Golang
 
 # Run
-Type ./httpp <port> <limit><br>
+Type ./httpp \<port\> \<limit\><br>
 Example: ./httpp 80 1000
 
 # Compile
